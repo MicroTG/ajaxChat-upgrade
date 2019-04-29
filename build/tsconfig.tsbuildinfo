@@ -1,0 +1,119 @@
+{
+  "program": {
+    "fileInfos": {
+      "/usr/local/lib/node_modules/typescript/lib/lib.es6.d.ts": {
+        "version": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da",
+        "signature": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3",
+        "signature": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/ennis/projects/web/chat/ajaxchat.ts": {
+        "version": "37f3f97f0f185b854b4f3657f44640beeff630c4004afa8a1fd5e24b2cb7d85f",
+        "signature": "a759bbb304b29e1acd019b33976aa67fba5b44ad3517a130df4fa3efa58eb10d"
+      },
+      "/users/ennis/projects/web/chat/script.ts": {
+        "version": "118a5cc74af5508a28e2a4429137c1c6f133cfcc57effa40766cc0dc657462da",
+        "signature": "997f566038e91c3e2aba33843be7bf2caff045702458d178d814454f58190c4e"
+      }
+    },
+    "options": {
+      "target": 2,
+      "module": 1,
+      "sourceMap": true,
+      "outDir": "/Users/ennis/Projects/Web/Chat/build",
+      "incremental": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "configFilePath": "/Users/ennis/Projects/Web/Chat/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/ennis/projects/web/chat/script.ts": [
+        "/users/ennis/projects/web/chat/ajaxchat.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/ennis/projects/web/chat/script.ts": [
+        "/users/ennis/projects/web/chat/ajaxchat.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/usr/local/lib/node_modules/typescript/lib/lib.es6.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/ennis/projects/web/chat/ajaxchat.ts",
+      "/users/ennis/projects/web/chat/script.ts"
+    ]
+  },
+  "version": "3.4.5"
+}
